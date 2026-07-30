@@ -1,4 +1,16 @@
 aid: postalcodes
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/postalcodes.png
 name: PostalCodes
 description: "Postal code search, country exports, and address validation data"
 url: https://postalcodes.info/api
