@@ -39,7 +39,6 @@ apis:
   - name: PostalCodes
     description: "Postal code search, country exports, and address validation data"
     humanURL: https://postalcodes.info/api
-    baseURL: https://postalcodes.info/api
     tags:
       - Geocoding
     properties:
